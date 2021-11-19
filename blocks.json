@@ -1,0 +1,11 @@
+{
+    "blocks": {
+        "08ec726b-6dfb-4285-88da-2bec18ef3237": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        }
+    },
+    "top_block": "08ec726b-6dfb-4285-88da-2bec18ef3237",
+    "type": "blocks"
+}

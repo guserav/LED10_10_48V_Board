@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Generic 2 pin connector with mounting pad",
+    "pins": {
+        "588536f1-9e96-4500-bcbb-4ba48082b643": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "aec54b03-95b1-446e-a242-ee11f9da81ea": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Mount",
+            "swap_group": 0
+        },
+        "b3cef4f5-fe6c-45b5-b063-1618f997168f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3e7351eb-f422-4417-9e90-22e5a0006ff5"
+}

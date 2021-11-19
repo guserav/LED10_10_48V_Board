@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "ATtinyX41-SSUR"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet-Summary.pdf"
+    ],
+    "description": [
+        false,
+        "8-bit AVR Microcontroller with 4/8K Bytes In-System Programmable Flash"
+    ],
+    "entity": "b72ad290-f1e4-48b7-99ed-1d4108853431",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "24573f76-17f5-4c85-8314-9ec25f2ec7cd",
+    "orderable_MPNs": {
+        "d40c78fa-c583-453e-80ba-f92f11a303e2": "ATTINY841-SSUR"
+    },
+    "package": "14aeb235-3edc-4327-9a25-7de5a4bd6808",
+    "pad_map": {
+        "150ac7fa-7f46-49f2-ab10-8c0f447d0bd4": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "4fd33a15-57d6-4729-bffa-6d5ca3bddef0"
+        },
+        "29845fb8-d37b-4a23-a456-3897cba0240e": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "ff8fddc9-c8c6-4646-a107-2f431644a162"
+        },
+        "32350e73-3524-4259-aad9-74a372ee42e5": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "5a2ab9c6-d7ad-47d2-9b45-43259c487983"
+        },
+        "327e4032-c988-4b9b-8944-cd6e4257ca8e": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "00a3fe54-6de6-4602-aed1-f0f458b64eba"
+        },
+        "38f25dfc-b2f4-4515-83fb-f63c0c529fc9": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "ca73584f-3ff6-4b33-88f8-94713d085f24"
+        },
+        "6de88445-a438-452d-9a56-ca754d9c97f8": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "69397eb3-3552-4d70-b09d-ed540c715b49"
+        },
+        "71284ebf-b339-4f0d-bd5f-765d1eb04896": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "27b9215e-ee87-4be7-ae5d-45ec2e6b557b"
+        },
+        "7d774933-233f-42d6-aa61-645fccad511f": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "f700b745-a86d-4bc8-a3da-34511b1df3a7"
+        },
+        "7e3e50d4-f9a5-4b8d-80bb-9c119b9c88ed": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "816a5481-2103-4fbf-a969-de2a66ef0237"
+        },
+        "8a7ba3f8-c2ff-4736-a7af-63bc6b28775a": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "b299b8a1-4391-48f3-a12e-8262b451cef2"
+        },
+        "ce8e0ff3-c8cb-430b-b47d-4f16d58bb7f3": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "8c62da4e-05e1-487a-b4d6-fcb0216cb34c"
+        },
+        "cf3a38df-5ed7-47dd-84ce-0f9d0a0ba9d1": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "1325c916-9e7b-4e1a-bd97-d631d7284bac"
+        },
+        "d86bca97-5554-479a-8512-843a86f676e5": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "986ee76b-b71b-4545-ba37-6347bfd84717"
+        },
+        "dd326f38-d93c-4563-a442-d5334a8426d3": {
+            "gate": "bbc8db74-d796-4681-b729-edc9aa402f35",
+            "pin": "67433c30-cb03-414b-aa15-b7c9c844c354"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "avr",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "1634a92b-b5bc-4316-8e56-5f7eb51457d5",
+    "value": [
+        false,
+        ""
+    ]
+}

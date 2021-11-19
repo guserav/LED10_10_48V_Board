@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "639340bf-da4b-49b4-af1b-b74beaa1f3c5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8aac306d-456d-4fd3-91f3-25e09db48efc"
+        }
+    },
+    "manufacturer": "",
+    "name": "RS485 Transceiver",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2d9f8691-485d-4633-b111-65d081e23e03"
+}

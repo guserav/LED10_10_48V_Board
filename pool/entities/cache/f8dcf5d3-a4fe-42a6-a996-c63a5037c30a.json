@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "95c8a737-2cf0-4823-963e-416470ff406b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0c2184b6-ac6c-4bef-9932-9b1cf71d6eec"
+        }
+    },
+    "manufacturer": "MPS",
+    "name": "MP4569GN",
+    "prefix": "U",
+    "tags": [
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "f8dcf5d3-a4fe-42a6-a996-c63a5037c30a"
+}

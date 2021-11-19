@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "LM301Z+ SPMWH3326MP7WAQ3S0"
+    ],
+    "base": "5d4efd2b-559c-4904-928e-84cfd24062c2",
+    "datasheet": [
+        true,
+        "https://cdn.samsung.com/led/file/resource/2020/09/Data_Sheet_LM301Z_Plus_CRI90_Rev.2.5.pdf"
+    ],
+    "description": [
+        true,
+        "Middle Power LED Series 3030"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Samsung"
+    ],
+    "model": "3c695ac4-d016-437f-8413-e6d884f1d63e",
+    "orderable_MPNs": {
+        "e660731a-95aa-496e-b7d1-bf318729d132": "SPMWH3326MP7WAQ3S0"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "cb2a6511-fc9c-42d0-9692-9318d664cab1",
+    "value": [
+        false,
+        "5700K"
+    ]
+}

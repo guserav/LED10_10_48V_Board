@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "CL10B104KC8NNNC"
+    ],
+    "base": "5f11876f-0433-45dc-a306-8f7d0f24e00c",
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 100 nF 100 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "eec3aaee-d4df-49ff-9d7b-3fbec898733c": "CL05A104KO5NNNC",
+        "fd0926be-eb92-4ead-bcbe-448a9d0ce54e": "CL05A104KO5NNND"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4a682bb9-af6c-4ad0-bb54-4a4040291f28",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

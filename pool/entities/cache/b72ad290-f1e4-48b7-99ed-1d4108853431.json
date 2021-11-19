@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "bbc8db74-d796-4681-b729-edc9aa402f35": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8828d5da-62eb-41ee-a25f-b0c7ea092af8"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "ATtinyX41",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "b72ad290-f1e4-48b7-99ed-1d4108853431"
+}

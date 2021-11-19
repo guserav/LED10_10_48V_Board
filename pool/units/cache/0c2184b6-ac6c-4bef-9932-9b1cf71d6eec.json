@@ -1,0 +1,62 @@
+{
+    "manufacturer": "MPS",
+    "name": "MP4569GN",
+    "pins": {
+        "0bca4180-f450-4336-b010-4efcf5d41876": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "1347b675-7b8d-4780-bc60-c63cf5c56d73": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        },
+        "1403e43b-42a7-4ae9-b695-9996dca866dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "3d37218a-3ed1-4f11-80ce-5229c980ac16": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "Mount",
+            "swap_group": 0
+        },
+        "5b7d15ec-d949-4390-b01d-f7b21f2abf45": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "67ea6328-bf8d-412d-ad43-e1f372e590d8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BST",
+            "swap_group": 0
+        },
+        "6c64e387-bdf6-4c2e-a7f4-b37e85054317": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "6eae2313-a3f2-494e-bf5b-34cac8c4c115": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e9cb30a3-59a1-45b1-8dda-20a82be3bdc0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BIAS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "0c2184b6-ac6c-4bef-9932-9b1cf71d6eec"
+}

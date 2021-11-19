@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "LM301Z+"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.samsung.com/led/file/resource/2020/09/Data_Sheet_LM301Z_Plus_CRI90_Rev.2.5.pdf"
+    ],
+    "description": [
+        false,
+        "Middle Power LED Series 3030"
+    ],
+    "entity": "f061691a-7954-4797-9529-dba6527d8f4f",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8eb3db7d-f565-413a-a46b-e1473c1dac4e",
+    "pad_map": {
+        "202c6f43-3113-405e-8c67-c9bb93e869bb": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        },
+        "577e8bad-9800-4b4d-9c0b-00325bfeb754": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "white"
+    ],
+    "type": "part",
+    "uuid": "5d4efd2b-559c-4904-928e-84cfd24062c2",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

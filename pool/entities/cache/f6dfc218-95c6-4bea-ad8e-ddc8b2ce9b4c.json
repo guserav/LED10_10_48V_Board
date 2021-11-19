@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "eb7f68b1-6fba-4a35-a470-2cecb23fe087": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3e7351eb-f422-4417-9e90-22e5a0006ff5"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 2 pin connector with mounting pad",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "f6dfc218-95c6-4bea-ad8e-ddc8b2ce9b4c"
+}

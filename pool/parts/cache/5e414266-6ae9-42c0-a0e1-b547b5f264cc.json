@@ -1,0 +1,75 @@
+{
+    "MPN": [
+        false,
+        "MP4569GN"
+    ],
+    "datasheet": [
+        false,
+        "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP4569/document_id/963"
+    ],
+    "description": [
+        false,
+        "75V, 0.3A Synchronous Step-Down Converter"
+    ],
+    "entity": "f8dcf5d3-a4fe-42a6-a996-c63a5037c30a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MPS"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "f25b0867-59eb-4cf7-9fae-cc44faa970c8": "MP4569GN-Z"
+    },
+    "package": "5126654b-b798-4327-a3e7-a0f9c0923c7e",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "0bca4180-f450-4336-b010-4efcf5d41876"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "6c64e387-bdf6-4c2e-a7f4-b37e85054317"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "67ea6328-bf8d-412d-ad43-e1f372e590d8"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "6eae2313-a3f2-494e-bf5b-34cac8c4c115"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "5b7d15ec-d949-4390-b01d-f7b21f2abf45"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "1347b675-7b8d-4780-bc60-c63cf5c56d73"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "e9cb30a3-59a1-45b1-8dda-20a82be3bdc0"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "1403e43b-42a7-4ae9-b695-9996dca866dc"
+        },
+        "d5ebddda-0aa4-4353-ad86-e245a6c8057d": {
+            "gate": "95c8a737-2cf0-4823-963e-416470ff406b",
+            "pin": "3d37218a-3ed1-4f11-80ce-5229c980ac16"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "5e414266-6ae9-42c0-a0e1-b547b5f264cc",
+    "value": [
+        false,
+        ""
+    ]
+}

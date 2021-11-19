@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "ADM483ARZ"
+    ],
+    "base": "6040f724-706c-45a7-8bea-13ecffa7a6b3",
+    "datasheet": [
+        false,
+        "https://www.digikey.de/product-detail/en/analog-devices-inc/ADM483ARZ/ADM483ARZ-ND/1007307"
+    ],
+    "description": [
+        true,
+        "RS485 Transceiver"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "2faf7d0a-4bb2-4d33-a266-2e0c5890519e": "ADM483ARZ"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "781c8cba-7b39-47a4-8045-ad848933cd39",
+    "value": [
+        true,
+        "RS485 Transceiver"
+    ]
+}

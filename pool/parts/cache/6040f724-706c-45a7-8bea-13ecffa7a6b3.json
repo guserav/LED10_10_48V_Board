@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "RS485 Transceiver"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "RS485 Transceiver"
+    ],
+    "entity": "2d9f8691-485d-4633-b111-65d081e23e03",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "92716c5e-4454-4fd4-a9f7-d561e527cbf0"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "2bf8b634-3ea5-431f-981f-c4612f5e5395"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "361af633-e2dd-4104-a681-230d0d751215"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "5bb5200e-b301-4f2b-8d7e-de327ee07284"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "c636e791-3c3b-43b5-998a-67d45155ca46"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "a747ed8e-5c7d-4f3c-a894-b9b00a8821eb"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "6d8c416a-321e-4601-8cad-abe94b8bbef2"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "639340bf-da4b-49b4-af1b-b74beaa1f3c5",
+            "pin": "6472aa3c-63df-4a19-aaa7-2c6788dc2346"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "6040f724-706c-45a7-8bea-13ecffa7a6b3",
+    "value": [
+        false,
+        ""
+    ]
+}

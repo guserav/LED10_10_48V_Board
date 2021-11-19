@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "EMVE630ADA100MF55G"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/United%20Chemi-Con%20PDFs/MVE%20Series.pdf"
+    ],
+    "description": [
+        false,
+        "SURFACE MOUNT ALUMINUM ELECTROLYTIC CAPACITOR 10.00 µF 63V 20%"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "nippon chemi-con"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "6848e19d-1727-40da-a0d5-94833de47472": "EMVE630ADA100MF55G"
+    },
+    "package": "f2222037-90a4-46bf-90b4-5ec7f118a9c5",
+    "pad_map": {
+        "30f46298-08e1-4e1b-8430-d432c48b89ac": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "bf18f2b3-67d6-4e6d-acf1-b56017b92634": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "B",
+        "value": "1e-05",
+        "wvdc": "63"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "61cc38cb-604e-426c-bf52-b224109e6c6a",
+    "value": [
+        false,
+        "10.00 µF"
+    ]
+}

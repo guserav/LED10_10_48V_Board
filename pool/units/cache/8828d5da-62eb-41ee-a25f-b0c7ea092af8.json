@@ -1,0 +1,173 @@
+{
+    "manufacturer": "Microchip",
+    "name": "ATtinyX41",
+    "pins": {
+        "00a3fe54-6de6-4602-aed1-f0f458b64eba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "1325c916-9e7b-4e1a-bd97-d631d7284bac": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT8",
+                "ADC11",
+                "XTAL1",
+                "CLKI"
+            ],
+            "primary_name": "PB0",
+            "swap_group": 0
+        },
+        "27b9215e-ee87-4be7-ae5d-45ec2e6b557b": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT7",
+                "ADC7",
+                "TOCC6",
+                "ICP1",
+                "TXD0",
+                "~SS"
+            ],
+            "primary_name": "PA7",
+            "swap_group": 0
+        },
+        "4fd33a15-57d6-4729-bffa-6d5ca3bddef0": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT10",
+                "ADC8",
+                "CLKO",
+                "TOCC7",
+                "ICP2",
+                "RXD0"
+            ],
+            "primary_name": "PB2",
+            "swap_group": 0
+        },
+        "5a2ab9c6-d7ad-47d2-9b45-43259c487983": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT3",
+                "ADC3",
+                "AIN10",
+                "TOCC2",
+                "T0",
+                "XCK0",
+                "SCK"
+            ],
+            "primary_name": "PA3",
+            "swap_group": 0
+        },
+        "67433c30-cb03-414b-aa15-b7c9c844c354": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT5",
+                "ADC5",
+                "ACO0",
+                "TOCC4",
+                "T2",
+                "TXD1",
+                "MISO"
+            ],
+            "primary_name": "PA5",
+            "swap_group": 0
+        },
+        "69397eb3-3552-4d70-b09d-ed540c715b49": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT2",
+                "ADC2",
+                "AIN01",
+                "TOCC1",
+                "RXD0",
+                "~SS"
+            ],
+            "primary_name": "PA2",
+            "swap_group": 0
+        },
+        "816a5481-2103-4fbf-a969-de2a66ef0237": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT11",
+                "ADC9",
+                "~RESET",
+                "dW"
+            ],
+            "primary_name": "PB3",
+            "swap_group": 0
+        },
+        "8c62da4e-05e1-487a-b4d6-fcb0216cb34c": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT0",
+                "ADC0",
+                "AREF",
+                "MISO"
+            ],
+            "primary_name": "PA0",
+            "swap_group": 0
+        },
+        "986ee76b-b71b-4545-ba37-6347bfd84717": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT6",
+                "ADC6",
+                "ACO1",
+                "TOCC5",
+                "XCK1",
+                "SDA",
+                "MOSI"
+            ],
+            "primary_name": "PA6",
+            "swap_group": 0
+        },
+        "b299b8a1-4391-48f3-a12e-8262b451cef2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ca73584f-3ff6-4b33-88f8-94713d085f24": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT4",
+                "ADC4",
+                "AIN11",
+                "TOCC3",
+                "T1",
+                "RXD1",
+                "SCL",
+                "SCK"
+            ],
+            "primary_name": "PA4",
+            "swap_group": 0
+        },
+        "f700b745-a86d-4bc8-a3da-34511b1df3a7": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT1",
+                "ADC1",
+                "AIN00",
+                "TOCC0",
+                "TXD0",
+                "MOSI"
+            ],
+            "primary_name": "PA1",
+            "swap_group": 0
+        },
+        "ff8fddc9-c8c6-4646-a107-2f431644a162": {
+            "direction": "bidirectional",
+            "names": [
+                "PCINT9",
+                "ADC10",
+                "XTAL2",
+                "INT0"
+            ],
+            "primary_name": "PB1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8828d5da-62eb-41ee-a25f-b0c7ea092af8"
+}

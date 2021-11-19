@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "RS485 Transceiver",
+    "pins": {
+        "2bf8b634-3ea5-431f-981f-c4612f5e5395": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "361af633-e2dd-4104-a681-230d0d751215": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "5bb5200e-b301-4f2b-8d7e-de327ee07284": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "RO",
+            "swap_group": 0
+        },
+        "6472aa3c-63df-4a19-aaa7-2c6788dc2346": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "6d8c416a-321e-4601-8cad-abe94b8bbef2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "92716c5e-4454-4fd4-a9f7-d561e527cbf0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RE",
+            "swap_group": 0
+        },
+        "a747ed8e-5c7d-4f3c-a894-b9b00a8821eb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c636e791-3c3b-43b5-998a-67d45155ca46": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DE",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8aac306d-456d-4fd3-91f3-25e09db48efc"
+}
