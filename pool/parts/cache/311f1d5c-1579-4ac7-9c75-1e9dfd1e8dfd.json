@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "CPL-RES-0603-27K-0.1W"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "27000"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "311f1d5c-1579-4ac7-9c75-1e9dfd1e8dfd",
+    "value": [
+        false,
+        "27 kΩ"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "DMN10H220L"
+    ],
+    "base": "6cd37099-f6f0-4c75-a0ee-6ba6c09c1e37",
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/DMN10H220L.pdf"
+    ],
+    "description": [
+        true,
+        "N-channel Transistor SOT-23"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "4ba465bd-d201-4af2-abf2-85adf9338492": "DMN10H220L"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "8f40c165-f0eb-4c51-9295-c9c3320c2b25",
+    "value": [
+        true,
+        "N-channel Transistor SOT-23"
+    ]
+}

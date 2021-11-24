@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "J49SMH-x-G-G-K-xM0"
+    ],
+    "datasheet": [
+        false,
+        "https://www.jauch.com/downloadfile/5d5283eb8ea55300421fd84937fcba163/jauch_datasheet_j49smh.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Quartz Crystal"
+    ],
+    "entity": "5159b99a-7b6d-48f7-8588-d0b503cdd8d8",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Jauch Quartz"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ba11db9a-6d08-4fda-8df5-1f3b767dd846",
+    "pad_map": {
+        "e8602438-3f86-42ce-9e93-f273e2f72b35": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "ea3596d6-d69a-4fba-a866-daeabe995108": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal"
+    ],
+    "type": "part",
+    "uuid": "6bd1979e-ea61-4b55-866c-f90a36f3636d",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "2N7002"
+    ],
+    "base": "6cd37099-f6f0-4c75-a0ee-6ba6c09c1e37",
+    "datasheet": [
+        false,
+        "https://rocelec.widen.net/view/pdf/orqxwkxkq1/ONSM-S-A0003544006-1.pdf?t.download=true&u=5oefqw"
+    ],
+    "description": [
+        true,
+        "N-channel Transistor SOT-23"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "13637425-2f4f-4782-95c5-42b88a07f66b": "2N7002"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "fbc8908a-a6aa-4c20-91cb-8f6783faf3f5",
+    "value": [
+        true,
+        "N-channel Transistor SOT-23"
+    ]
+}

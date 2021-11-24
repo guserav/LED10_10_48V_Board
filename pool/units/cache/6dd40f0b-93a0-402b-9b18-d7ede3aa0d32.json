@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "0603-thermistor",
+    "pins": {
+        "165992d1-9d56-464c-8ff4-03ed1b9e847f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "2c33d86a-4b69-4cee-89fb-d4f059b45952": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6dd40f0b-93a0-402b-9b18-d7ede3aa0d32"
+}

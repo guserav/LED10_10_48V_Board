@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "ERT-J1VV104J"
+    ],
+    "base": "0dae223c-c315-468e-b708-364934244e14",
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/AUA0000/AUA0000C8.pdf"
+    ],
+    "description": [
+        false,
+        "TC-Thermistoren 100k 0603 (1608 metrisch)"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic Electronic Components"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b464b7fb-6681-4539-8164-5e3294f53da5",
+    "value": [
+        false,
+        "100k"
+    ]
+}

@@ -13,6 +13,7 @@
 
 ## Komponentenliste
 ### LED
+#### White
 LED: https://www.digikey.de/product-detail/de/luminus-devices-inc/MP-3030-1100-56-95/1214-1348-1-ND/5731661
 30 per boaard -> ~1800 Lumen at ~15W
 With 2 x 15 LEDs + 20 Ohm resistor at 0.5 W loss each
@@ -23,10 +24,18 @@ LED 5700K: https://www.digikey.de/product-detail/de/samsung-semiconductor-inc/SP
 LED 3000K: https://www.digikey.de/product-detail/de/samsung-semiconductor-inc/SPMWH3326MP7WAV3S0/1510-SPMWH3326MP7WAV3S0DKR-ND/11697667
 2.75 V 65mA 16 in reihe
 each:
-    2 x https://www.digikey.de/product-detail/de/stackpole-electronics-inc/RMCF1206FT69R8/RMCF1206FT69R8CT-ND/2418818
-    2 x https://www.digikey.de/product-detail/de/koa-speer-electronics-inc/RK74H2BTTD54R9F/2019-RK73H2BTTD54R9FCT-ND/10237630
+    4 x https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF1206JT82R0/1753887
 
 -> 32 LEDs per board
+
+#### Color
+https://www.digikey.de/de/products/detail/american-bright-optoelectronics-corporation/BL-HJXGXBX32N/9678120
+https://www.digikey.de/de/products/detail/inolux/IN-P55TATRGB/7604873
+
+G&B: each 2x150 Ohm https://www.digikey.de/de/products/detail/te-connectivity-passive-product/CRGCQ1206F150R/8576402
+R: 8x150 of the G&B ones
+    or + LED https://www.digikey.de/de/products/detail/rohm-semiconductor/SML-D12U1WT86/5843853
+    and 2x150 + 1x https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RNCP1206FTD20R0/2240306
 
 ### AT Tiny
 https://www.digikey.de/product-detail/de/microchip-technology/ATTINY841-SSUR/ATTINY841-SSURCT-ND/4437442
@@ -43,17 +52,19 @@ https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/2305909-
 
 ### Programmer
 https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/166086-6/5264359
+https://www.digikey.de/de/products/detail/kyocera-avx/009159006551906/4490440
 
 ### Spannungsregler
 https://www.digikey.de/product-detail/en/monolithic-power-systems-inc/MP4573GN-Z/1589-1680-1-ND/9433446
 Vout = 5V
 Vin = 48V
 Ipeak = 10mA
-L = ???? TODO ?????
+L = 47 mH
+https://www.digikey.de/de/products/detail/taiyo-yuden/NRS6045T470MMGK/2665994
 
 ### MOSFET
 https://www.digikey.de/product-detail/de/infineon-technologies/BSS671S2LH6327XTSA1/BSS670S2LH6327XTSA1DKR-ND/3196841
-https://www.digikey.de/product-detail/de/diodes-incorporated/DMN11H220L-7/DMN10H220L-7DICT-ND/4794804
+Favorite: https://www.digikey.de/product-detail/de/diodes-incorporated/DMN11H220L-7/DMN10H220L-7DICT-ND/4794804
 
 ### RS 486 Transceiver
 https://www.digikey.de/product-detail/en/analog-devices-inc/ADM484MGMGeach:0MGþ=ARZ/ADM483ARZ-ND/1007307
@@ -66,6 +77,12 @@ https://www.reichelt.de/tischnetzteil-280-w-48-v-5-84-a-mw-gst280a48-p171085.htm
 ### kondensatoren für 48V
 100V: https://www.digikey.de/product-detail/de/nichicon/UUX2A100MNL1GS/493-6279-1-ND/3438792
 63V: https://www.digikey.de/product-detail/de/united-chemi-con/EMVE630ADA100MF55G/565-2264-1-ND/757425
+
+
+### 0 Ohm Brücke
+https://www.digikey.de/de/products/detail/yageo/RC0603FR-130RL/12756394
+https://www.digikey.de/de/products/detail/yageo/AC0603FR-070RL/2827812
+https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF1206ZT0R00/1756906
 
 
 ## Kostenrechnung

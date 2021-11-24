@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "8-DIP Switch",
+    "pins": {
+        "07030c27-7823-472a-ab72-c550c8b1bb04": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2B",
+            "swap_group": 0
+        },
+        "376dbd5c-3f4c-4f07-a426-f1a6d9a725c0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6B",
+            "swap_group": 0
+        },
+        "3a8bae6f-f794-48b2-a09d-cd181116d7ad": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1B",
+            "swap_group": 0
+        },
+        "3bfabaca-cfc7-462b-b510-71655c48f1dd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3A",
+            "swap_group": 0
+        },
+        "3fba4802-e65f-4e55-9983-81a5133f9517": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1A",
+            "swap_group": 0
+        },
+        "5b84bb8a-1c27-443e-9d33-4aa803a3f48b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3B",
+            "swap_group": 0
+        },
+        "70af8982-be06-451e-9f55-74e71b8abdf3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4B",
+            "swap_group": 0
+        },
+        "aa28b9ef-e198-46aa-92fa-f7687b39759c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5B",
+            "swap_group": 0
+        },
+        "bbc6be18-3662-4f7b-a6c4-563bb8b4fd64": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8A",
+            "swap_group": 0
+        },
+        "bef00233-9a1f-46d1-9045-1b36c71ffae0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8B",
+            "swap_group": 0
+        },
+        "c1c38eda-cb58-4e88-b5d3-78735a6c95fd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6A",
+            "swap_group": 0
+        },
+        "c208a4c0-a0b0-4881-bdf1-f653920fc852": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4A",
+            "swap_group": 0
+        },
+        "c388c314-5278-4897-b4d1-1c1228251d31": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7A",
+            "swap_group": 0
+        },
+        "cd1c3412-cd8f-45e4-8472-24b9f7e8116d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5A",
+            "swap_group": 0
+        },
+        "e642ea2a-ec69-4e04-b7c6-8eec22d2fe06": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2A",
+            "swap_group": 0
+        },
+        "ec1994e6-6b87-4b5d-988a-244319fb8d4d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "05fc041e-f8ae-4388-a878-ffb3397082e5"
+}

@@ -1,0 +1,112 @@
+{
+    "arcs": {
+        "6a00f8c2-41d6-4760-bf70-d0743a0e3361": {
+            "center": "d1fe38e3-c0a5-4af4-a2ba-d2525870506c",
+            "from": "8d29c329-9486-4937-9c22-4ec36f9165ed",
+            "layer": 0,
+            "to": "07d9da19-761b-4548-b016-14bca58c05d7",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "07d9da19-761b-4548-b016-14bca58c05d7": {
+            "position": [
+                -1250000,
+                0
+            ]
+        },
+        "8d29c329-9486-4937-9c22-4ec36f9165ed": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "d1fe38e3-c0a5-4af4-a2ba-d2525870506c": {
+            "position": [
+                1250000,
+                -1250000
+            ]
+        }
+    },
+    "lines": {},
+    "name": "Solder Bridge",
+    "pins": {
+        "330bff28-9eb7-4898-9996-975196f8e27e": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                5000000,
+                0
+            ]
+        },
+        "8dc9a350-924d-418c-a63b-e0e094a5ad99": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -3750000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "247b0aa1-b7f7-4002-afd9-fb8d6758dfa4": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "e069a36f-ddda-4cb5-87dc-0f16dc59b11e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -3750000,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "26ab4ca1-e26b-4ac5-81dd-14f6180d4596",
+    "uuid": "b333dcd2-e43d-487a-ab8d-3b5d5579acbc",
+    "version": 1
+}

@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "0603-thermistor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "0603 Thermistor"
+    ],
+    "entity": "047a86c0-95e4-4d07-9616-fa435d271355",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "fe22ac1d-25b9-4a47-8414-51c990d7f94b",
+    "pad_map": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
+            "gate": "6db20d19-785f-4ac7-80d3-8eeee50a8672",
+            "pin": "165992d1-9d56-464c-8ff4-03ed1b9e847f"
+        },
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
+            "gate": "6db20d19-785f-4ac7-80d3-8eeee50a8672",
+            "pin": "2c33d86a-4b69-4cee-89fb-d4f059b45952"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0dae223c-c315-468e-b708-364934244e14",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

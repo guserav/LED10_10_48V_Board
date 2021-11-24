@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "BL-HJXGXBX32N"
+    ],
+    "datasheet": [
+        false,
+        "https://www.americanbrightled.com/pdffiles/led-components/plcc/BL-HJXGXBX32N.pdf"
+    ],
+    "description": [
+        false,
+        "rgb led"
+    ],
+    "entity": "b2f3f6fc-f5b9-4beb-9e86-e2ae01bb5485",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "American Bright Optoelectronics Corporation"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "d76ab9c2-f06a-491c-9a49-78398f0c5073": "BL-HJXGXBX32N"
+    },
+    "package": "c42c96b9-abe5-4a6d-b65d-2a9da00a3334",
+    "pad_map": {
+        "274afd4c-b627-4cf7-8f85-c1d7be00031f": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "0f4125cd-6869-4c7b-a45f-a5fd172a9818"
+        },
+        "30f20a90-5d22-4cbc-9205-8fb16640cd89": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "a4e68863-feaa-43db-bdf0-38508979767d"
+        },
+        "418cf759-8db7-4b81-a8f4-0c31282de266": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "33227891-26af-4220-943c-4c3f05058b25"
+        },
+        "62a31801-28a8-43dc-8144-d70ba710dcc2": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "6a09f5a6-9787-4bcf-93ec-8d8f3f8d2d9a"
+        },
+        "796c6a8f-cf0d-482a-9f1c-c88b07f8f30b": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "cbb0762d-babd-4146-85e8-a349f64b9ebb"
+        },
+        "8022436c-ee51-4d5b-a6fa-c784dea52368": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "386bb61e-3470-4e3d-bb8d-f870316ec5e7"
+        },
+        "a5db023b-949b-49b3-b795-930628d354e7": {
+            "gate": "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309",
+            "pin": "ec8b1781-f387-44f2-9cb6-353648ac1009"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "rgb"
+    ],
+    "type": "part",
+    "uuid": "247ce99c-18a8-49e1-b68b-d7d8a0e28e69",
+    "value": [
+        false,
+        ""
+    ]
+}

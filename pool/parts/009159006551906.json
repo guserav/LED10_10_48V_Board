@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "009159006551906"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Board cutout for debug connector 009159006551906"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b959e5b7-e926-4405-aa8c-49695f972174",
+    "pad_map": {
+        "0de82bbc-3e82-496e-9e93-77824b58235f": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "3e7ccf73-a331-4207-b40a-81c53b1bb1a1": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "4608a267-8125-42fd-be93-ce96de59ed67": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "c216bc14-daeb-4d0f-84db-bc190b49990b": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "d46571f2-ad16-466a-9839-abe3b2d2c972": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "eb23f9af-d252-479c-a62b-765eb67b41cd": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0819d497-ddde-4079-92b5-cd2d3aaeb40a",
+    "value": [
+        false,
+        ""
+    ]
+}

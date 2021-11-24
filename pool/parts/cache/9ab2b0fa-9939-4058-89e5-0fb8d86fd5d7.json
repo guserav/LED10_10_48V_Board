@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "Solder Bridge"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Soldering bridge"
+    ],
+    "entity": "78e99e70-6614-495a-959a-fcb403a4a93d",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5138ad12-34f5-4510-9d2b-9c0052fd8f2c",
+    "pad_map": {
+        "50dcefbf-b5b0-4bc7-944e-bd0487aaff81": {
+            "gate": "1a4d6c16-2bb9-4b76-849f-661156839d8e",
+            "pin": "8dc9a350-924d-418c-a63b-e0e094a5ad99"
+        },
+        "904ce6aa-a3f4-4bb2-9e9d-d387a36cf23a": {
+            "gate": "1a4d6c16-2bb9-4b76-849f-661156839d8e",
+            "pin": "330bff28-9eb7-4898-9996-975196f8e27e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9ab2b0fa-9939-4058-89e5-0fb8d86fd5d7",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

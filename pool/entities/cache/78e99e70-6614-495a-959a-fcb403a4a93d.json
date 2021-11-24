@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "1a4d6c16-2bb9-4b76-849f-661156839d8e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "26ab4ca1-e26b-4ac5-81dd-14f6180d4596"
+        }
+    },
+    "manufacturer": "",
+    "name": "Solder Bridge",
+    "prefix": "J",
+    "tags": [
+        "bridge",
+        "jumper"
+    ],
+    "type": "entity",
+    "uuid": "78e99e70-6614-495a-959a-fcb403a4a93d"
+}

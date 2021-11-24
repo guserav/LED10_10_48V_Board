@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "22d7eaf5-a5e7-4376-b405-df00d4b70fe9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "05fc041e-f8ae-4388-a878-ffb3397082e5"
+        }
+    },
+    "manufacturer": "",
+    "name": "8-DIP Switch",
+    "prefix": "S",
+    "tags": [
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "0026193c-0e9a-459f-a876-a1a9dcae2d18"
+}

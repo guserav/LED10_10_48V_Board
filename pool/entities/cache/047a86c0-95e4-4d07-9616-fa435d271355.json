@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "6db20d19-785f-4ac7-80d3-8eeee50a8672": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6dd40f0b-93a0-402b-9b18-d7ede3aa0d32"
+        }
+    },
+    "manufacturer": "",
+    "name": "0603-thermistor",
+    "prefix": "R",
+    "tags": [],
+    "type": "entity",
+    "uuid": "047a86c0-95e4-4d07-9616-fa435d271355"
+}

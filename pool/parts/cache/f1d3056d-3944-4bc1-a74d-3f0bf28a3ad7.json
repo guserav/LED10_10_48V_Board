@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "1778777"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/PDF/Data%20Sheets/Phoenix%20Contact%20PDFs/1778764.pdf"
+    ],
+    "description": [
+        false,
+        "Surface mount 3 pin connector"
+    ],
+    "entity": "ae4ecf0d-0ad5-4c72-a583-6c2d8d455d46",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Phoenix Contact"
+    ],
+    "model": "5d0da886-d968-4ca3-b231-a59f5ed52f4d",
+    "orderable_MPNs": {
+        "34d11655-33ec-4512-8f1d-da7bb8c456ef": "1778777",
+        "982b0a33-5cc4-49ee-9728-20647be3d288": "277-2316-1-ND"
+    },
+    "package": "d8a7e16f-2313-4dfa-b0d2-230862220b2c",
+    "pad_map": {
+        "54911c42-75f0-406a-8f53-c6e4c2ecb28f": {
+            "gate": "05cd0a86-3dac-469c-8259-137e84aadb57",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        },
+        "6255eec3-89c8-47b7-92bb-7902531d8760": {
+            "gate": "05cd0a86-3dac-469c-8259-137e84aadb57",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "797e1952-0f42-43bc-831f-59abebb4fdf3": {
+            "gate": "05cd0a86-3dac-469c-8259-137e84aadb57",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "7fe62667-f9a7-42a1-9d8b-40abfbf2a85e": {
+            "gate": "05cd0a86-3dac-469c-8259-137e84aadb57",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "addd571d-c9b5-42c3-bc1f-1971e9755857": {
+            "gate": "05cd0a86-3dac-469c-8259-137e84aadb57",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "f1d3056d-3944-4bc1-a74d-3f0bf28a3ad7",
+    "value": [
+        false,
+        ""
+    ]
+}

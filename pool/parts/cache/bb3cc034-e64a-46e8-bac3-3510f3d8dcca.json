@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "J49SMH-F-G-G-K-12M0"
+    ],
+    "base": "6bd1979e-ea61-4b55-866c-f90a36f3636d",
+    "datasheet": [
+        true,
+        "https://www.jauch.com/downloadfile/5d5283eb8ea55300421fd84937fcba163/jauch_datasheet_j49smh.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Quartz Crystal 12.0000MHZ 18PF"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Jauch Quartz"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "067104b1-ae62-4791-9762-9f75d50274c3": "J49SMH-F-G-G-K-12M0"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bb3cc034-e64a-46e8-bac3-3510f3d8dcca",
+    "value": [
+        false,
+        "12 MHz"
+    ]
+}

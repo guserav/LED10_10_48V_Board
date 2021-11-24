@@ -1,0 +1,50 @@
+{
+    "manufacturer": "",
+    "name": "RGB-LED with thermal pad",
+    "pins": {
+        "0f4125cd-6869-4c7b-a45f-a5fd172a9818": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "Thermal",
+            "swap_group": 0
+        },
+        "33227891-26af-4220-943c-4c3f05058b25": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BK",
+            "swap_group": 0
+        },
+        "386bb61e-3470-4e3d-bb8d-f870316ec5e7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RK",
+            "swap_group": 0
+        },
+        "6a09f5a6-9787-4bcf-93ec-8d8f3f8d2d9a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GK",
+            "swap_group": 0
+        },
+        "a4e68863-feaa-43db-bdf0-38508979767d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GA",
+            "swap_group": 0
+        },
+        "cbb0762d-babd-4146-85e8-a349f64b9ebb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BA",
+            "swap_group": 0
+        },
+        "ec8b1781-f387-44f2-9cb6-353648ac1009": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b233542c-211c-4fa0-907a-303390cd19b8"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "05cd0a86-3dac-469c-8259-137e84aadb57": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0a4d4bdc-f4bc-4ed9-8156-3259ff10a9a2"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 3 pin connector with mounting pad",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "ae4ecf0d-0ad5-4c72-a583-6c2d8d455d46"
+}

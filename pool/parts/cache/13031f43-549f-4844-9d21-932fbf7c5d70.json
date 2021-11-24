@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "NRS6045T470MMGK"
+    ],
+    "datasheet": [
+        false,
+        "file:///tmp/mozilla_guserav0/LSXND6060YEL470MMG_SS.pdf"
+    ],
+    "description": [
+        false,
+        "Wire-wound Ferrite Power Inductors LSXB/LSXN/LSXP series for General Electronic Equipment"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "066a77ec-0582-41cf-b21f-336dcef1517c": "LLXND6060YEL470MMG",
+        "795eaeba-fe34-473a-9349-522cf52c61f2": "NRS6045T470MMGK",
+        "b218f16f-01a0-405a-804b-c536d1d14e40": "LSXND6060YEL470MMG"
+    },
+    "package": "a06fbd8e-a319-415f-b3f7-468083932881",
+    "pad_map": {
+        "1cbbddbb-a1a8-425f-bd9b-c00cc11ebb89": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "1e365d40-cd09-4221-9e0a-21a7643999df": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.2743",
+        "idc": "1.15",
+        "table": "inductors",
+        "value": "4.7e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "13031f43-549f-4844-9d21-932fbf7c5d70",
+    "value": [
+        false,
+        "47 µH"
+    ]
+}
