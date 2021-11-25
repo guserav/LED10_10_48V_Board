@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "009159006061916"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/40/OpenEndedCard_Edge_00_9159-1125649.pdf"
+    ],
+    "description": [
+        false,
+        "B 2 B connector"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KYOCERA AVX"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "7cd8817b-a33d-4e07-952c-8c9d7227f07a": "009159006061916"
+    },
+    "package": "df6f5fe1-3d63-4645-a1dc-15bf4db5ca7a",
+    "pad_map": {
+        "288b8758-922a-444a-8df6-e325ff4b36e6": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "50e665c0-acf7-4e88-b4e4-376a6873b4d3": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "722d0360-6f17-4912-b47b-0a825b0a9483": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "517de0e6-604d-49cf-aced-767528d67ff8",
+    "value": [
+        false,
+        ""
+    ]
+}

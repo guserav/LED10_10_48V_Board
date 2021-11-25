@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "2305908-3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773929-7_BuchananWireMateSMT&DocType=DS&DocLang=English"
+    ],
+    "description": [
+        false,
+        "3 Pin SMD connector"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity AMP Connectors"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "71827a4d-07ea-435d-a7b9-f3db93dcea92": "2305908-3"
+    },
+    "package": "c5a50750-db7d-4ce4-b322-3a2d6d4859f5",
+    "pad_map": {
+        "2004343c-f084-4dbc-a140-058dabbd245a": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "44707f5a-f43e-4160-88bc-fdfccd09103f": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "a6835fcd-8e11-4f06-83c3-ad96ebe6d312": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "8eb7d514-b21e-41cc-807a-3ca2904d6bd6",
+    "value": [
+        false,
+        ""
+    ]
+}
