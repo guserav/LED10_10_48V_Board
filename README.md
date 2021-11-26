@@ -72,6 +72,7 @@ https://www.digikey.de/product-detail/en/analog-devices-inc/ADM484MGMGeach:0MGþ
 
 ### Netzteil
 https://www.reichelt.de/tischnetzteil-280-w-48-v-5-84-a-mw-gst280a48-p171085.html?&nbc=1
+https://www.reichelt.de/netzteile-festspannung-c4950.html?ACTION=2&GROUPID=4950&SEARCH=%2A&START=0&OFFSET=16&nbc=1&SID=96cf37ff842aa7a2495d23bd0364113894efbe5d78afa5c3dbda3
 
 
 ### kondensatoren für 48V
