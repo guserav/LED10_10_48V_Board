@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "PTS636Sx50SMTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ckswitches.com/media/2779/pts636.pdf"
+    ],
+    "description": [
+        false,
+        "6×3.5x5 mm SMD tactile switch"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "C&K"
+    ],
+    "model": "1940623a-996d-4105-8382-fbf0c7833c0e",
+    "package": "369e3595-2c3b-4257-93c2-357501150f12",
+    "pad_map": {
+        "927120e7-6662-40c0-9354-3c2ddb01704d": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "b6c77e67-d416-4b08-a1b1-7e27e73de52a": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "momentary",
+        "spst",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "b177e271-27d7-41c7-88b7-8c1f1225e3d3",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

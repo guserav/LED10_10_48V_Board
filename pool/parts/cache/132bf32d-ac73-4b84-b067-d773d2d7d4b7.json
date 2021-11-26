@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "PTS636 SK50 SMTR LFS"
+    ],
+    "base": "b177e271-27d7-41c7-88b7-8c1f1225e3d3",
+    "datasheet": [
+        true,
+        "https://www.ckswitches.com/media/2779/pts636.pdf"
+    ],
+    "description": [
+        true,
+        "6.1×6×3.5 mm SMD tactile switch"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "C&K"
+    ],
+    "model": "1940623a-996d-4105-8382-fbf0c7833c0e",
+    "orderable_MPNs": {
+        "cfbe0211-132b-4b36-8fc3-2bdd79bc44b6": "PTS636 SK50 SMTR LFS"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "132bf32d-ac73-4b84-b067-d773d2d7d4b7",
+    "value": [
+        true,
+        "PTS636Sx50SMTR"
+    ]
+}
