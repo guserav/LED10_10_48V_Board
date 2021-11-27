@@ -226,7 +226,7 @@
             }
         },
         "d5ebddda-0aa4-4353-ad86-e245a6c8057d": {
-            "name": "9",
+            "name": "PAD",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 3510000,
