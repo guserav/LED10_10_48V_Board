@@ -3,4 +3,5 @@ pool/*.db-*
 *.imp_meta
 *.autosave
 *.bak
-locals/
+*/3d_models/*
+

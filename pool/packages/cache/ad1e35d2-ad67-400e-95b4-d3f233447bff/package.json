@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "41facbae-9b9c-457e-b6e5-af83de551cae",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -72,7 +72,17 @@
         }
     },
     "manufacturer": "CUI",
-    "models": {},
+    "models": {
+        "41facbae-9b9c-457e-b6e5-af83de551cae": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/local/DIP/CUI_DEVICES_DS04-254-2-08BK-SMT-TR.step",
+            "pitch": 16384,
+            "roll": 49152,
+            "x": -10353000,
+            "y": 8977000,
+            "yaw": 0,
+            "z": 907000
+        }
+    },
     "name": "DS04-254-2-08BK-SMT-TR",
     "pads": {
         "20dd0866-3a45-48a1-bce2-ef39edfe0c26": {

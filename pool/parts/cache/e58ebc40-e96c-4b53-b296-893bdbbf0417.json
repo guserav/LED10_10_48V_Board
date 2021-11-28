@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR2010-J/-000ELF"
+    ],
+    "base": "ad5ae112-7fcb-4207-9074-dd37250cd91b",
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
+    ],
+    "description": [
+        false,
+        "2010 resistor 0 Ω"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "0db594a4-1dac-43da-a65a-bd39162d94d8": "CR2010-J/-000ELF"
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e58ebc40-e96c-4b53-b296-893bdbbf0417",
+    "value": [
+        false,
+        "0 Ω"
+    ]
+}

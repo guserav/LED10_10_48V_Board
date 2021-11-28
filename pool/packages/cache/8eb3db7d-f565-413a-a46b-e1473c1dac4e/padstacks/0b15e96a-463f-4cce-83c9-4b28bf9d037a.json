@@ -2,7 +2,7 @@
     "holes": {},
     "name": "LED LM301Z+ Anode",
     "padstack_type": "top",
-    "parameter_program": "get-parameter [ solder_mask_expansion ]\nexpand-polygon [ solder_mask -1170000 1580000 -1170000 -1580000 -570000 -1580000 -570000 -1150000 0 -1150000 0 1150000 -570000 1150000 -570000 1580000 ]\n\nget-parameter [ paste_mask_contraction ]\nchs\nexpand-polygon [ solder_paste -1170000 1580000 -1170000 -1580000 -570000 -1580000 -570000 -1150000 0 -1150000 0 1150000 -570000 1150000 -570000 1580000 ]",
+    "parameter_program": "get-parameter [ solder_mask_expansion ]\nexpand-polygon [ solder_mask 55000 -1150000 625000 -1150000 625000 1150000 55000 1150000 55000 1580000 -545000 1580000 -545000 -1580000 55000 -1580000 ]\n\n\nget-parameter [ paste_mask_contraction ]\nchs\nexpand-polygon [ solder_paste 55000 -1150000 625000 -1150000 625000 1150000 55000 1150000 55000 1580000 -545000 1580000 -545000 -1580000 55000 -1580000 ]\n",
     "parameter_set": {
         "paste_mask_contraction": 0,
         "solder_mask_expansion": 100000
@@ -20,7 +20,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         -1150000
                     ],
                     "type": "line"
@@ -32,7 +32,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        0,
+                        625000,
                         -1150000
                     ],
                     "type": "line"
@@ -44,7 +44,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        0,
+                        625000,
                         1150000
                     ],
                     "type": "line"
@@ -56,7 +56,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         1150000
                     ],
                     "type": "line"
@@ -68,7 +68,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         1580000
                     ],
                     "type": "line"
@@ -80,7 +80,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1170000,
+                        -545000,
                         1580000
                     ],
                     "type": "line"
@@ -92,7 +92,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1170000,
+                        -545000,
                         -1580000
                     ],
                     "type": "line"
@@ -104,7 +104,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         -1580000
                     ],
                     "type": "line"
@@ -122,7 +122,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -470000,
+                        155000,
                         -1250000
                     ],
                     "type": "line"
@@ -134,7 +134,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        100000,
+                        725000,
                         -1250000
                     ],
                     "type": "line"
@@ -146,7 +146,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        100000,
+                        725000,
                         1250000
                     ],
                     "type": "line"
@@ -158,7 +158,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -470000,
+                        155000,
                         1250000
                     ],
                     "type": "line"
@@ -170,7 +170,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -470000,
+                        155000,
                         1680000
                     ],
                     "type": "line"
@@ -182,7 +182,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1270000,
+                        -645000,
                         1680000
                     ],
                     "type": "line"
@@ -194,7 +194,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1270000,
+                        -645000,
                         -1680000
                     ],
                     "type": "line"
@@ -206,7 +206,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -470000,
+                        155000,
                         -1680000
                     ],
                     "type": "line"
@@ -224,7 +224,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1170000,
+                        -545000,
                         1580000
                     ],
                     "type": "line"
@@ -236,7 +236,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1170000,
+                        -545000,
                         -1580000
                     ],
                     "type": "line"
@@ -248,7 +248,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         -1580000
                     ],
                     "type": "line"
@@ -260,7 +260,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         -1150000
                     ],
                     "type": "line"
@@ -272,7 +272,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        0,
+                        625000,
                         -1150000
                     ],
                     "type": "line"
@@ -284,7 +284,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        0,
+                        625000,
                         1150000
                     ],
                     "type": "line"
@@ -296,7 +296,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         1150000
                     ],
                     "type": "line"
@@ -308,7 +308,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -570000,
+                        55000,
                         1580000
                     ],
                     "type": "line"

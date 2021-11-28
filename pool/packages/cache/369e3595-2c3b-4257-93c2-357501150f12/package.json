@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "1940623a-996d-4105-8382-fbf0c7833c0e",
+    "default_model": "66a729b3-f09f-4028-96de-e093bdb770cf",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -109,17 +109,8 @@
     },
     "manufacturer": "C&K",
     "models": {
-        "1940623a-996d-4105-8382-fbf0c7833c0e": {
-            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/mechanical/switch/PTS636SM25SMTR.step",
-            "pitch": 0,
-            "roll": 0,
-            "x": 0,
-            "y": 0,
-            "yaw": 0,
-            "z": 0
-        },
-        "dd98ceb1-1635-4623-be0e-221dc312a896": {
-            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/mechanical/switch/PTS636SK25SMTR.step",
+        "66a729b3-f09f-4028-96de-e093bdb770cf": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/local/button/PTS636SK50SMTRLFS.stp",
             "pitch": 0,
             "roll": 0,
             "x": 0,

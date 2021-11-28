@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "R2010"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2010 resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "63e18061-b93c-474d-91d7-e1deb7f8aa7f",
+    "pad_map": {
+        "451021bc-c2c7-485a-86b7-eb61a292fd47": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "ce2a0171-d48a-4631-b2c0-4f1833ddf361": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "ad5ae112-7fcb-4207-9074-dd37250cd91b",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

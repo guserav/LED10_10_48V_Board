@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "d958501d-8950-4e66-9eb4-789d534c43bc",
     "dimensions": {
         "0043dbfc-1dc7-4a32-835d-d48714309c9d": {
             "label_distance": -13000000,
@@ -155,7 +155,17 @@
         }
     },
     "manufacturer": "TE Connectivity",
-    "models": {},
+    "models": {
+        "d958501d-8950-4e66-9eb4-789d534c43bc": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/local/connectors/c-2305908-3-1-3d.stp",
+            "pitch": 32768,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 4975000
+        }
+    },
     "name": "2305908-3",
     "pads": {
         "2004343c-f084-4dbc-a140-058dabbd245a": {

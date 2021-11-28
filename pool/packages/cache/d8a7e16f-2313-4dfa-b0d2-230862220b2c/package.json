@@ -86,10 +86,10 @@
     "manufacturer": "Phoenix Contact",
     "models": {
         "5d0da886-d968-4ca3-b231-a59f5ed52f4d": {
-            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/connectors/pxc_1778780_01_PTSM-0-5-4-HH-2-5-SMD-R32_3D.stp",
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/3d_models/local/connectors/pxc_1778777_01_PTSM-0-5-3-HH-2-5-SMD-R32_3D.stp",
             "pitch": 0,
             "roll": 0,
-            "x": 9600000,
+            "x": 7100000,
             "y": 9800000,
             "yaw": 32768,
             "z": 0
