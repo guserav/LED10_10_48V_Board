@@ -84,6 +84,7 @@ https://www.reichelt.de/netzteile-festspannung-c4950.html?ACTION=2&GROUPID=4950&
 https://www.digikey.de/de/products/detail/yageo/RC0603FR-130RL/12756394
 https://www.digikey.de/de/products/detail/yageo/AC0603FR-070RL/2827812
 https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF1206ZT0R00/1756906
+https://www.digikey.de/de/products/detail/bourns-inc/CR2010-J-000ELF/3785822
 
 
 ## Kostenrechnung
