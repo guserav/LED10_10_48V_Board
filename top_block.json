@@ -12,10 +12,11 @@
                 "refdes"
             ],
             "order": "asc",
-            "sort_column": "refdes"
+            "sort_column": "MPN"
         },
+        "include_nopopulate": false,
         "orderable_MPNs": {},
-        "output_filename": ""
+        "output_filename": "faprication_output/Bom.csv"
     },
     "buses": {},
     "components": {

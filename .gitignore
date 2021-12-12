@@ -4,4 +4,5 @@ pool/*.db-*
 *.autosave
 *.bak
 */3d_models/*
+fabrication_output/
 

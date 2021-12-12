@@ -50,6 +50,12 @@ Strom:
 https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/2305910-2/A126307-ND/7561708
 https://www.digikey.de/product-detail/de/te-connectivity-amp-connectors/2305909-2/A126305CT-ND/7561706
 
+Controller:
+https://www.reichelt.de/stiftleiste-3-pol-rm-5-mm-90--ctb9352-3-p292595.html?&trstct=pos_0&nbc=1
+https://www.reichelt.de/stiftleiste-3-pol-rm-5-08-mm-90--ctb9359-3-p292609.html?&trstct=pos_0&nbc=1
+https://static6.arrow.com/aropdfconversion/85cec26a3de64b9b7fea94a817e7ad264f957d22/258293830966374ctb9302_series_d.pdf
+https://www.camdenboss.com/products/datasheet/CTB9309_series_D.pdf
+
 ### Programmer
 https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/166086-6/5264359
 https://www.digikey.de/de/products/detail/kyocera-avx/009159006551906/4490440
@@ -73,6 +79,8 @@ https://www.digikey.de/product-detail/en/analog-devices-inc/ADM484MGMGeach:0MGþ
 ### Netzteil
 https://www.reichelt.de/tischnetzteil-280-w-48-v-5-84-a-mw-gst280a48-p171085.html?&nbc=1
 https://www.reichelt.de/netzteile-festspannung-c4950.html?ACTION=2&GROUPID=4950&SEARCH=%2A&START=0&OFFSET=16&nbc=1&SID=96cf37ff842aa7a2495d23bd0364113894efbe5d78afa5c3dbda3
+https://www.reichelt.de/schaltnetzteil-geschlossen-150-w-48-v-3-3-a-mw-lrs-150-48-p202989.html?&trstct=pol_0&nbc=1
+https://www.reichelt.de/schaltnetzteil-geschlossen-320-w-48-v-6-7-a-mw-rsp-320-48-p147893.html?&trstct=pol_8&nbc=1
 
 
 ### kondensatoren für 48V
@@ -108,3 +116,12 @@ Symmetrich auf platine: 1.18 = 2x0.58 https://www.digikey.de/product-detail/de/a
     6A
 Symmetrich auf platine: 1.24 = 2x0.62 https://www.digikey.de/product-detail/de/amphenol-icc-fci/10120045-401LF/609-5015-1-ND/5731726
     5A
+
+
+## Controller
+https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
+https://dl.espressif.com/dl/schematics/ESP32-Core-Board-V2_sch.pdf
+http://wch-ic.com/products/CH340.html
+https://www.digikey.de/de/products/detail/espressif-systems/ESP32-S2-WROOM/11613143
+https://www.digikey.de/de/products/detail/onsemi/NCP1117ST33T3/660707
+https://github.com/horizon-eda/horizon-pool/pull/253
