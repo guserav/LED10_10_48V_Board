@@ -412,7 +412,7 @@
         },
         "output_directory": "fabrication_output",
         "prefix": "LED10_10_48V_Board",
-        "zip_output": false
+        "zip_output": true
     },
     "grid_settings": {
         "current": {
