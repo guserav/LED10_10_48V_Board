@@ -251,6 +251,24 @@
             "tag": "4c391b54-d448-4b0b-ac68-488eee57d15c",
             "value": ""
         },
+        "0ae4ae84-543e-4ee9-aad6-3814196c7059": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "d1c46c7c-58c6-41d3-927a-3c77ca0c190a"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "04a0fde2-1df5-4b8f-ae7d-13bcb1848a97"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "4e5b5457-dc76-4613-a4d2-0ccd1448ea6d",
+            "pin_names": {},
+            "refdes": "R237",
+            "tag": "55193255-b895-4dab-90b5-bae2c38bf922",
+            "value": ""
+        },
         "0b2960bf-6db6-422b-8951-26d8b0ae025e": {
             "connections": {
                 "b47e30c4-545c-4194-9e8d-2dd120f86888/33227891-26af-4220-943c-4c3f05058b25": {
@@ -841,7 +859,7 @@
         "2817515e-ac81-4ab2-a99a-c7af59dd00e3": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "c08246d6-40fe-4832-a732-98df8a05d0b1"
+                    "net": "c1f551b1-e302-4702-937e-69e81278b08a"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "e64b737b-8190-4919-b78e-6cbc113c6d04"
@@ -1057,7 +1075,7 @@
         "34614412-f870-4243-930e-9b0b3a6709ef": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "c08246d6-40fe-4832-a732-98df8a05d0b1"
+                    "net": "c1f551b1-e302-4702-937e-69e81278b08a"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "cc6dd2cd-c09f-4226-a99b-70fea2386c20"
@@ -1332,7 +1350,7 @@
         "471d405f-659e-49f9-a047-40e609a6a44d": {
             "connections": {
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/074c3718-08fd-4f94-88fc-2bb43174b245": {
-                    "net": "f3e9891c-3825-4ae7-981b-d6289cd2ddb7"
+                    "net": "7b08b6c8-24cc-4401-8b5c-77662d118979"
                 },
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/4887ef47-94f0-4fd1-b552-c424bd37a3e7": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -1528,6 +1546,24 @@
             "pin_names": {},
             "refdes": "R205",
             "tag": "94e78b0c-df4d-4084-9686-8505d19f5d07",
+            "value": ""
+        },
+        "51a7205d-6c5d-4c5d-bac4-c7c2ec4e45dc": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "4357c018-9203-4d13-b9d6-6533bab0cf3e"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "d72d8222-27bd-4f0a-ab3a-130fa3fd4d39"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "4e5b5457-dc76-4613-a4d2-0ccd1448ea6d",
+            "pin_names": {},
+            "refdes": "R238",
+            "tag": "55193255-b895-4dab-90b5-bae2c38bf922",
             "value": ""
         },
         "51bffbf3-1cef-4947-a4bd-616a5dd92c9c": {
@@ -2064,7 +2100,7 @@
         "6cc5ec07-5a3d-4673-a2d9-0e1bdd0c22c6": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "4357c018-9203-4d13-b9d6-6533bab0cf3e"
+                    "net": "d72d8222-27bd-4f0a-ab3a-130fa3fd4d39"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -2859,7 +2895,7 @@
         "992a53ae-8be8-404b-ae0c-2efcd55fa207": {
             "connections": {
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/074c3718-08fd-4f94-88fc-2bb43174b245": {
-                    "net": "d1c46c7c-58c6-41d3-927a-3c77ca0c190a"
+                    "net": "04a0fde2-1df5-4b8f-ae7d-13bcb1848a97"
                 },
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/4887ef47-94f0-4fd1-b552-c424bd37a3e7": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -2958,7 +2994,7 @@
         "9b457edf-b14d-4c8c-950c-94ac5399112e": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "f3e9891c-3825-4ae7-981b-d6289cd2ddb7"
+                    "net": "7b08b6c8-24cc-4401-8b5c-77662d118979"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -2976,7 +3012,7 @@
         "9b980608-17dc-4ddd-8c83-9ced9ccac957": {
             "connections": {
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/074c3718-08fd-4f94-88fc-2bb43174b245": {
-                    "net": "4357c018-9203-4d13-b9d6-6533bab0cf3e"
+                    "net": "d72d8222-27bd-4f0a-ab3a-130fa3fd4d39"
                 },
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/4887ef47-94f0-4fd1-b552-c424bd37a3e7": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -3198,7 +3234,7 @@
         "a847ea65-4875-49cc-b6a3-d0ec1dfcb4db": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "d1c46c7c-58c6-41d3-927a-3c77ca0c190a"
+                    "net": "04a0fde2-1df5-4b8f-ae7d-13bcb1848a97"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -3312,7 +3348,7 @@
         "b03c568e-2676-46a7-ab6a-cd0f75d13c54": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "9a451af7-d7e9-450a-86b9-7db8a738488f"
+                    "net": "93119218-1d0c-4943-b791-c85466111a58"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -3760,7 +3796,7 @@
                     "net": "2047aa65-3334-4269-9dfa-66c440775447"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
-                    "net": "c08246d6-40fe-4832-a732-98df8a05d0b1"
+                    "net": "c1f551b1-e302-4702-937e-69e81278b08a"
                 }
             },
             "custom_pin_names": {},
@@ -4699,6 +4735,24 @@
             "tag": "24cc38f5-50f4-40df-8957-219eb05552c9",
             "value": ""
         },
+        "f4cdc0d7-bcc6-4e2f-a5ac-991194c723cf": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "9a451af7-d7e9-450a-86b9-7db8a738488f"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "93119218-1d0c-4943-b791-c85466111a58"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "4e5b5457-dc76-4613-a4d2-0ccd1448ea6d",
+            "pin_names": {},
+            "refdes": "R236",
+            "tag": "55193255-b895-4dab-90b5-bae2c38bf922",
+            "value": ""
+        },
         "f519dc92-47d1-4fe8-83bb-de7d10a44dc2": {
             "connections": {
                 "6cf6f42b-0c5e-43bd-b51c-fd7b7ec54309/33227891-26af-4220-943c-4c3f05058b25": {
@@ -4786,7 +4840,7 @@
         "f90959cf-86f1-45be-88f9-6017650d703e": {
             "connections": {
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/074c3718-08fd-4f94-88fc-2bb43174b245": {
-                    "net": "9a451af7-d7e9-450a-86b9-7db8a738488f"
+                    "net": "93119218-1d0c-4943-b791-c85466111a58"
                 },
                 "6dce85e8-6b70-44ac-8ae8-d17152c3707a/4887ef47-94f0-4fd1-b552-c424bd37a3e7": {
                     "net": "c431f670-10c0-4bca-a05a-ceb796c25233"
@@ -4963,6 +5017,24 @@
             "tag": "4c391b54-d448-4b0b-ac68-488eee57d15c",
             "value": ""
         },
+        "fe31f334-d4fe-4c62-b590-6b124d10c1ed": {
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "f3e9891c-3825-4ae7-981b-d6289cd2ddb7"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "7b08b6c8-24cc-4401-8b5c-77662d118979"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "4e5b5457-dc76-4613-a4d2-0ccd1448ea6d",
+            "pin_names": {},
+            "refdes": "R239",
+            "tag": "55193255-b895-4dab-90b5-bae2c38bf922",
+            "value": ""
+        },
         "fed50e12-9e69-44f5-b2be-4a99ff0a3f91": {
             "connections": {
                 "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
@@ -4994,6 +5066,15 @@
     },
     "nets": {
         "045d62cc-66ec-4dc1-b567-57525879dff2": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "b83dc306-8d80-4c8b-9fc6-d52b68ee1ba6",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "04a0fde2-1df5-4b8f-ae7d-13bcb1848a97": {
             "is_port": false,
             "is_power": false,
             "name": "",
@@ -5714,6 +5795,15 @@
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
+        "7b08b6c8-24cc-4401-8b5c-77662d118979": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "b83dc306-8d80-4c8b-9fc6-d52b68ee1ba6",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
         "7bb8ae44-f25a-4660-8843-f28976c2f779": {
             "is_port": false,
             "is_power": false,
@@ -5859,6 +5949,15 @@
             "power_symbol_style": "gnd"
         },
         "92d7940f-dd66-4dae-aad4-2539db927527": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "b83dc306-8d80-4c8b-9fc6-d52b68ee1ba6",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "93119218-1d0c-4943-b791-c85466111a58": {
             "is_port": false,
             "is_power": false,
             "name": "",
@@ -6218,7 +6317,7 @@
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
-        "c08246d6-40fe-4832-a732-98df8a05d0b1": {
+        "c0fdca85-1a89-494d-a63b-7e1ce9ef1347": {
             "is_port": false,
             "is_power": false,
             "name": "",
@@ -6227,7 +6326,7 @@
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
-        "c0fdca85-1a89-494d-a63b-7e1ce9ef1347": {
+        "c1f551b1-e302-4702-937e-69e81278b08a": {
             "is_port": false,
             "is_power": false,
             "name": "",
@@ -6399,6 +6498,15 @@
             "power_symbol_style": "gnd"
         },
         "d7092b2d-ab54-4bea-9a36-dd6a57fb53e8": {
+            "is_port": false,
+            "is_power": false,
+            "name": "",
+            "net_class": "b83dc306-8d80-4c8b-9fc6-d52b68ee1ba6",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "d72d8222-27bd-4f0a-ab3a-130fa3fd4d39": {
             "is_port": false,
             "is_power": false,
             "name": "",

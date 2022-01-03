@@ -73,7 +73,9 @@ https://www.digikey.de/product-detail/de/infineon-technologies/BSS671S2LH6327XTS
 Favorite: https://www.digikey.de/product-detail/de/diodes-incorporated/DMN11H220L-7/DMN10H220L-7DICT-ND/4794804
 
 ### RS 486 Transceiver
-https://www.digikey.de/product-detail/en/analog-devices-inc/ADM484MGMGeach:0MGþ=ARZ/ADM483ARZ-ND/1007307
+https://www.digikey.de/de/products/detail/analog-devices-inc/ADM483ARZ/1007307
+https://www.digikey.de/de/products/detail/texas-instruments/SN75176AD/13473333
+https://www.digikey.de/de/products/filter/schnittstellen-treiber-empf%C3%A4nger-transceiver/710?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRACYBOAFkvIA4QBdAgBwBcoQBldgJwCWAOwDmIAL4FYlBCGSR02fEVIhqABkoBmbczadIPfsLGTw9LbPmLcBYpDLUwAVmdbqekBy69BoiQTkAOzw0HKomLYqDhSaNBAsXgZGfqYEzkGMYdaRyvZkOpTq1EGe3oa%2BJgHgsPQe2RFKdqpazuTUrmXJlf5mYJT0Mg0Kuc0x6l0%2Bxr0EALTkVlD8AK55qs7M4mahoAIAJlyzYOoQ%2BlwgBACO7ACeXOQTBLesOFxoWMhbQA
 
 
 ### Netzteil
