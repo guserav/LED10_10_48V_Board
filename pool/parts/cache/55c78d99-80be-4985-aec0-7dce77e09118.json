@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "NRS5030T220MMGJ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf"
+    ],
+    "description": [
+        false,
+        "22 µH inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "011ab756-6efe-4ef9-80c6-ae3b65f2705f",
+    "pad_map": {
+        "1cbbddbb-a1a8-425f-bd9b-c00cc11ebb89": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "1e365d40-cd09-4221-9e0a-21a7643999df": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.18",
+        "idc": "1.05",
+        "table": "inductors",
+        "value": "2.2e-05"
+    },
+    "tags": [
+        "inductor"
+    ],
+    "type": "part",
+    "uuid": "55c78d99-80be-4985-aec0-7dce77e09118",
+    "value": [
+        false,
+        "22 µH"
+    ]
+}

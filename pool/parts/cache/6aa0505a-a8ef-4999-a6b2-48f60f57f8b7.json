@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "865080642006"
+    ],
+    "datasheet": [
+        false,
+        "https://www.we-online.com/katalog/datasheet/865080642006.pdf"
+    ],
+    "description": [
+        false,
+        "WCAP-ASLI 10 µF 50 V 20 % Aluminum Electrolytic Capacitors"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "344397f5-fc6d-4ed7-9d20-b40b7d3f56af",
+    "pad_map": {
+        "30f46298-08e1-4e1b-8430-d432c48b89ac": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "bf18f2b3-67d6-4e6d-acf1-b56017b92634": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "1e-05",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6aa0505a-a8ef-4999-a6b2-48f60f57f8b7",
+    "value": [
+        false,
+        "10 µF"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BAS70WS_R1_00001"
+    ],
+    "base": "178c8673-adba-4d3f-b95e-01fbed526043",
+    "datasheet": [
+        false,
+        "https://www.panjit.com.tw/upload/datasheet/BAS70WS.pdf"
+    ],
+    "description": [
+        false,
+        "Dioden Schottky 70 V 200mA Oberflächenmontage SOD-323"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panjit International Inc."
+    ],
+    "model": "bdafba99-5da8-42b8-8beb-7235f01d7a53",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7214e910-988d-4825-b6b3-b64b94c33140",
+    "value": [
+        false,
+        "70V"
+    ]
+}
