@@ -21,7 +21,7 @@
     "junctions": {
         "3c7c3a0b-4155-4979-84e6-abe318b49534": {
             "position": [
-                -2800000,
+                -3000000,
                 -4600000
             ]
         },
@@ -39,7 +39,7 @@
         },
         "fd7e4808-e4ee-4e77-92bd-32291fd2eefd": {
             "position": [
-                -2800000,
+                -3000000,
                 -400000
             ]
         }
@@ -112,8 +112,10 @@
             }
         }
     },
-    "parameter_program": "",
-    "parameter_set": {},
+    "parameter_program": "6.000mm 4.600mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm -2.300mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
     "polygons": {
         "580d0f19-4a79-4fc1-badd-16ab3633a55f": {
             "layer": 40,
@@ -282,8 +284,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3000000,
-                        -4600000
+                        -3250000,
+                        -4850000
                     ],
                     "type": "line"
                 },
@@ -294,8 +296,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3000000,
-                        0
+                        -3250000,
+                        250000
                     ],
                     "type": "line"
                 },
@@ -306,8 +308,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3000000,
-                        0
+                        3250000,
+                        250000
                     ],
                     "type": "line"
                 },
@@ -318,8 +320,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3000000,
-                        -4600000
+                        3250000,
+                        -4850000
                     ],
                     "type": "line"
                 }
@@ -349,7 +351,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    -3600000,
+                    -3800000,
                     -4500000
                 ]
             },
