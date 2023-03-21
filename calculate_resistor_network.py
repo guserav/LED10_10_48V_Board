@@ -1,5 +1,6 @@
 from fractions import Fraction
 from operator import itemgetter, attrgetter
+import matplotlib.pyplot as plt
 
 ADC_ACCURACY = 2 ** 10
 COMMON_VALUES = [
@@ -147,7 +148,17 @@ class DipSwitchNetwork():
 
     def __repr__(self):
         resistors = "+".join(repr(x) for x in self.resistors)
-        return f"{self.ground_resistor},{resistors}"
+        norms = ",".join("{0:.4f}".format(float(x.get_resistants() / self.ground_resistor.get_resistants())) for x in self.resistors)
+        return f"{self.ground_resistor},{resistors} ({norms})"
+
+    def visualize(self):
+        fig, ax = plt.subplots()
+        values = self.calculate_values()
+        y = [x[i] for i in range(3) for x in values]
+        x = [x for i in range(3) for x in range(2 ** len(self.resistors))]
+        ax.scatter(x, y)
+        plt.show()
+
 
 
 def yield_resistor_pairs(input_resistors):
@@ -169,7 +180,7 @@ def generate_resistors(input_values):
     return basic_resistors + resistor_pairs
 
 
-def generate_dip_switch_networks(resistors):
+def generate_dip_switch_networks_4(resistors):
     count = 1
     for ground_resistor in resistors:
         for i, r1 in enumerate(resistors):
@@ -179,13 +190,110 @@ def generate_dip_switch_networks(resistors):
                         yield DipSwitchNetwork(ground_resistor, r1, r2, r3, r4), count
                         count += 1
 
-def count_dip_switch_networks(resistors):
+
+R_4_RANGES = [
+    [0.8, 1.6],
+    [1.0, 2.5],
+    [2, 4],
+    [4, 9],
+]
+
+def get_ratio(ground_resistor, r):
+    return r.get_resistants() / ground_resistor.get_resistants()
+
+def is_in_range(ground_resistor, r, ratio_range):
+    ratio = get_ratio(ground_resistor, r)
+    return ratio_range[0] < ratio < ratio_range[1]
+
+def get_offsets(ground_resistor, resistors):
+    offsets = []
+    last_offset = 0
+    for ratio_range in R_4_RANGES[1:]:
+        for i, r in enumerate(resistors[last_offset:]):
+            if is_in_range(ground_resistor, r, ratio_range):
+                offsets.append(i + last_offset)
+                last_offset = i + last_offset
+                break
+        else:
+            offsets.append(len(resistors))
+    return tuple(offsets)
+
+def gustimate_dip_switch_networks_4_educated(resistors):
+    count = 1
+    for ground_resistor in resistors:
+        j_offset, k_offset, l_offset = get_offsets(ground_resistor, resistors)
+        for i, r1 in enumerate(resistors):
+            if not is_in_range(ground_resistor, r1, R_4_RANGES[0]):
+                continue
+            val = 1
+            i = max(i, j_offset) # skip ahead if needed
+            for j, r2 in enumerate(resistors[i:]):
+                if not is_in_range(ground_resistor, r2, R_4_RANGES[1]):
+                    val *= j
+                    break
+            j = max(i, k_offset - i) # skip ahead if needed
+            for k, r3 in enumerate(resistors[i:]):
+                if not is_in_range(ground_resistor, r3, R_4_RANGES[2]):
+                    val *= k
+                    break
+            k = max(i, l_offset - i) # skip ahead if needed
+            for r4 in resistors[i:]:
+                if not is_in_range(ground_resistor, r4, R_4_RANGES[3]):
+                    break
+                count += val
+    return count
+
+
+def generate_dip_switch_networks_4_educated(resistors, dry_run=False):
+    count = 1
+    for ground_resistor in resistors:
+        j_offset, k_offset, l_offset = get_offsets(ground_resistor, resistors)
+        for i, r1 in enumerate(resistors):
+            if not is_in_range(ground_resistor, r1, R_4_RANGES[0]):
+                continue
+            i = max(i, j_offset) # skip ahead if needed
+            for j, r2 in enumerate(resistors[i:]):
+                if not is_in_range(ground_resistor, r2, R_4_RANGES[1]):
+                    break
+                j = max(j, k_offset - i) # skip ahead if needed
+                for k, r3 in enumerate(resistors[i+j:]):
+                    if not is_in_range(ground_resistor, r3, R_4_RANGES[2]):
+                        break
+                    k = max(k, l_offset - j - i) # skip ahead if needed
+                    for r4 in resistors[i+j+k:]:
+                        if not is_in_range(ground_resistor, r4, R_4_RANGES[3]):
+                            break
+                        if not dry_run:
+                            yield DipSwitchNetwork(ground_resistor, r1, r2, r3, r4), count
+                        count += 1
+    if dry_run:
+        yield count
+
+def count_dip_switch_networks_4(resistors):
     r_count = len(resistors)
     count = 0
     for i in range(r_count):
         for j in range(r_count - i):
             for k in range(r_count - j - i):
                 m = r_count - k - i - j
+                count += m
+    return r_count * count
+
+def generate_dip_switch_networks_3(resistors):
+    count = 1
+    for ground_resistor in resistors:
+        for i, r1 in enumerate(resistors):
+            for j, r2 in enumerate(resistors[i:]):
+                for r3 in resistors[i+j:]:
+                    yield DipSwitchNetwork(ground_resistor, r1, r2, r3), count
+                    count += 1
+
+def count_dip_switch_networks_3(resistors):
+    r_count = len(resistors)
+    count = 0
+    for i in range(r_count):
+        for j in range(r_count - i):
+                m = r_count - i - j
                 count += m
     return r_count * count
 
@@ -218,20 +326,34 @@ def get_best_from_2_d(x, y, mi, ma, st):
     return best_accuracy, data[0], data[1]
 
 
+def show_current_setup():
+    show_network(47, [24, 100, 270, 681])
+
+
+def show_network(base, values):
+    dip = DipSwitchNetwork(Resistor(base), *[Resistor(x) for x in values])
+    print(dip)
+    print(float(dip.get_accuracy()))
+    dip.visualize()
+
+
 def main():
     resistors = generate_resistors(COMMON_VALUES)
     # resistors = list(yield_basic_resistors(COMMON_VALUES))
     resistors = sorted(resistors, key=attrgetter('resistants'))
     r_count = len(resistors)
-    total = count_dip_switch_networks(resistors)
+    # total = count_dip_switch_networks_4(resistors)
+    total = gustimate_dip_switch_networks_4_educated(resistors)
     best_accuracy = 0
     best_dip = None
-    for dip, count in generate_dip_switch_networks(resistors):
+    # for dip, count in generate_dip_switch_networks_4(resistors):
+    for dip, count in generate_dip_switch_networks_4_educated(resistors):
         accuracy = dip.determine_accuracy()
         if accuracy > best_accuracy:
             best_dip = dip
-            best_accuracy = accuracy
-        print(count, total, f"{count/total * 100:.6f}", best_accuracy, best_dip)
+            best_accuracy = float(accuracy)
+        print(count, total, f"{count/total * 100:.6f}", f"{best_accuracy:.2f}", best_dip)
+    best_dip.visualize()
 
 
 if __name__ == "__main__":
