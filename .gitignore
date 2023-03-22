@@ -15,3 +15,8 @@ fabrication_output/
 *.fft
 # Netlist
 *.net
+
+
+# python
+__pycache__/
+.ipynb_checkpoints/
