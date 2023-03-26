@@ -1,0 +1,323 @@
+{
+    "holes": {},
+    "name": "LED LM301Z+ Kathode",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ solder_mask_expansion ]\nexpand-polygon [ solder_mask -1250000 1150000 -1250000 -1150000 310000 -1150000 310000 -1580000 910000 -1580000 910000 1580000 310000 1580000 310000 1150000 ]\n\nget-parameter [ paste_mask_contraction ]\nchs\nexpand-polygon [ solder_paste -1250000 1150000 -1250000 -1150000 310000 -1150000 310000 -1580000 910000 -1580000 910000 1580000 310000 1580000 310000 1150000 ]\n",
+    "parameter_set": {
+        "paste_mask_contraction": 0,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [],
+    "polygons": {
+        "4248c392-15b2-444e-85cc-d9d92663aab9": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1250000,
+                        1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1250000,
+                        -1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        -1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        -1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        910000,
+                        -1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        910000,
+                        1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        160000,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        1150000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "85531b5d-a258-4f34-ab1d-22fc644f99d2": {
+            "layer": 10,
+            "parameter_class": "solder_mask",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1010000,
+                        1680000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        210000,
+                        1680000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        210000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1350000,
+                        1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1350000,
+                        -1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        210000,
+                        -1250000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        210000,
+                        -1680000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1010000,
+                        -1680000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "e0a08dc6-be1c-48d7-8ce6-4f4bb4ffe8dc": {
+            "layer": 30,
+            "parameter_class": "solder_paste",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        910000,
+                        1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1250000,
+                        1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1250000,
+                        -1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        -1150000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        310000,
+                        -1580000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        910000,
+                        -1580000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "shapes": {},
+    "type": "padstack",
+    "uuid": "4c2f0cb6-b1a6-4ead-b992-3a65d70d1541",
+    "well_known_name": ""
+}
